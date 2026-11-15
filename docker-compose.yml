@@ -1,0 +1,41 @@
+services:
+  api:
+    build: .
+    container_name: wadipulse-api
+    command: uvicorn wadipulse.api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./data:/app/data
+      - hf_cache:/root/.cache/huggingface
+    environment:
+      - WADIPULSE_LLM_BASE_URL=${WADIPULSE_LLM_BASE_URL:-http://host.docker.internal:11434/v1}
+      - WADIPULSE_LLM_MODEL=${WADIPULSE_LLM_MODEL:-qwen2.5:3b}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+  dashboard:
+    build: .
+    container_name: wadipulse-dashboard
+    command: streamlit run app/dashboard.py --server.address=0.0.0.0 --server.port=8501
+    ports:
+      - "8501:8501"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ./data:/app/data
+      - hf_cache:/root/.cache/huggingface
+    environment:
+      - WADIPULSE_LLM_BASE_URL=${WADIPULSE_LLM_BASE_URL:-http://host.docker.internal:11434/v1}
+      - WADIPULSE_LLM_MODEL=${WADIPULSE_LLM_MODEL:-qwen2.5:3b}
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  hf_cache:

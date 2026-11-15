@@ -1,0 +1,407 @@
+[
+  {
+    "tile_id": "wadi_ad_dawasir_00",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.66842,
+      20.519446,
+      44.689864,
+      20.539727
+    ],
+    "fg_ratio": 0.2366,
+    "file": "wadi_ad_dawasir_00.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_01",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.689904,
+      20.519486,
+      44.711351,
+      20.539764
+    ],
+    "fg_ratio": 0.1666,
+    "file": "wadi_ad_dawasir_01.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_02",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.711389,
+      20.519523,
+      44.732839,
+      20.539798
+    ],
+    "fg_ratio": 0.1189,
+    "file": "wadi_ad_dawasir_02.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_03",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.604017,
+      20.499071,
+      44.62545,
+      20.519359
+    ],
+    "fg_ratio": 0.078,
+    "file": "wadi_ad_dawasir_03.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_04",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.646981,
+      20.499163,
+      44.66842,
+      20.519446
+    ],
+    "fg_ratio": 0.0616,
+    "file": "wadi_ad_dawasir_04.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_05",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.668463,
+      20.499206,
+      44.689904,
+      20.519486
+    ],
+    "fg_ratio": 0.3765,
+    "file": "wadi_ad_dawasir_05.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_06",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.689945,
+      20.499245,
+      44.711389,
+      20.519523
+    ],
+    "fg_ratio": 0.4235,
+    "file": "wadi_ad_dawasir_06.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_07",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.711427,
+      20.499282,
+      44.732874,
+      20.519558
+    ],
+    "fg_ratio": 0.5431,
+    "file": "wadi_ad_dawasir_07.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_08",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.561111,
+      20.478727,
+      44.582536,
+      20.49902
+    ],
+    "fg_ratio": 0.1059,
+    "file": "wadi_ad_dawasir_08.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_09",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.58259,
+      20.47878,
+      44.604017,
+      20.499071
+    ],
+    "fg_ratio": 0.1974,
+    "file": "wadi_ad_dawasir_09.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_10",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.604069,
+      20.47883,
+      44.625499,
+      20.499118
+    ],
+    "fg_ratio": 0.075,
+    "file": "wadi_ad_dawasir_10.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_11",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.689986,
+      20.479005,
+      44.711427,
+      20.499282
+    ],
+    "fg_ratio": 0.3534,
+    "file": "wadi_ad_dawasir_11.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_12",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.711465,
+      20.479042,
+      44.732909,
+      20.499317
+    ],
+    "fg_ratio": 0.2689,
+    "file": "wadi_ad_dawasir_12.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_13",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.732944,
+      20.479076,
+      44.754392,
+      20.499348
+    ],
+    "fg_ratio": 0.1338,
+    "file": "wadi_ad_dawasir_13.npz"
+  },
+  {
+    "tile_id": "wadi_ad_dawasir_14",
+    "region": "wadi_ad_dawasir",
+    "scene_id": "S2A_MSIL2A_20260630T073031_R049_T38QMH_20260630T110912",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      44.539693,
+      20.458431,
+      44.561111,
+      20.478727
+    ],
+    "fg_ratio": 0.0819,
+    "file": "wadi_ad_dawasir_14.npz"
+  },
+  {
+    "tile_id": "al_kharj_15",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.455557,
+      24.241509,
+      47.477993,
+      24.261364
+    ],
+    "fg_ratio": 0.157,
+    "file": "al_kharj_15.npz"
+  },
+  {
+    "tile_id": "al_kharj_16",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.433128,
+      24.22165,
+      47.455557,
+      24.241509
+    ],
+    "fg_ratio": 0.0877,
+    "file": "al_kharj_16.npz"
+  },
+  {
+    "tile_id": "al_kharj_17",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.455169,
+      24.221296,
+      47.477601,
+      24.241151
+    ],
+    "fg_ratio": 0.0699,
+    "file": "al_kharj_17.npz"
+  },
+  {
+    "tile_id": "al_kharj_18",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.47721,
+      24.220938,
+      47.499645,
+      24.24079
+    ],
+    "fg_ratio": 0.1293,
+    "file": "al_kharj_18.npz"
+  },
+  {
+    "tile_id": "al_kharj_19",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.49925,
+      24.220578,
+      47.521688,
+      24.240427
+    ],
+    "fg_ratio": 0.1187,
+    "file": "al_kharj_19.npz"
+  },
+  {
+    "tile_id": "al_kharj_20",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.521289,
+      24.220215,
+      47.54373,
+      24.240059
+    ],
+    "fg_ratio": 0.1516,
+    "file": "al_kharj_20.npz"
+  },
+  {
+    "tile_id": "al_kharj_21",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.322551,
+      24.203157,
+      47.34496,
+      24.223034
+    ],
+    "fg_ratio": 0.089,
+    "file": "al_kharj_21.npz"
+  },
+  {
+    "tile_id": "al_kharj_22",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.410706,
+      24.201787,
+      47.433128,
+      24.22165
+    ],
+    "fg_ratio": 0.0641,
+    "file": "al_kharj_22.npz"
+  },
+  {
+    "tile_id": "al_kharj_23",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.498855,
+      24.200366,
+      47.521289,
+      24.220215
+    ],
+    "fg_ratio": 0.0728,
+    "file": "al_kharj_23.npz"
+  },
+  {
+    "tile_id": "al_kharj_24",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.322185,
+      24.182941,
+      47.34459,
+      24.202819
+    ],
+    "fg_ratio": 0.2221,
+    "file": "al_kharj_24.npz"
+  },
+  {
+    "tile_id": "al_kharj_25",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.432361,
+      24.181223,
+      47.454782,
+      24.201082
+    ],
+    "fg_ratio": 0.0825,
+    "file": "al_kharj_25.npz"
+  },
+  {
+    "tile_id": "al_kharj_26",
+    "region": "al_kharj",
+    "scene_id": "S2B_MSIL2A_20260630T071619_R006_T38QQM_20260630T094358",
+    "acquisition_date": "2026-06-30",
+    "crs": "EPSG:32638",
+    "bbox_wgs84": [
+      47.321819,
+      24.162726,
+      47.344221,
+      24.182604
+    ],
+    "fg_ratio": 0.0637,
+    "file": "al_kharj_26.npz"
+  }
+]

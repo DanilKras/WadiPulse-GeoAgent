@@ -1,0 +1,44 @@
+[
+  {
+    "model": "UNet-6Band (Baseline)",
+    "shots": 5,
+    "test_iou": 0.5595,
+    "test_f1": 0.7123,
+    "area_mape_pct": 83.99
+  },
+  {
+    "model": "Prithvi-EO-2.0-300M",
+    "shots": 5,
+    "test_iou": 0.6255,
+    "test_f1": 0.7663,
+    "area_mape_pct": 60.09
+  },
+  {
+    "model": "UNet-6Band (Baseline)",
+    "shots": 10,
+    "test_iou": 0.8906,
+    "test_f1": 0.9416,
+    "area_mape_pct": 2.41
+  },
+  {
+    "model": "Prithvi-EO-2.0-300M",
+    "shots": 10,
+    "test_iou": 0.7848,
+    "test_f1": 0.8781,
+    "area_mape_pct": 8.37
+  },
+  {
+    "model": "UNet-6Band (Baseline)",
+    "shots": 20,
+    "test_iou": 0.558,
+    "test_f1": 0.7148,
+    "area_mape_pct": 43.32
+  },
+  {
+    "model": "Prithvi-EO-2.0-300M",
+    "shots": 20,
+    "test_iou": 0.7832,
+    "test_f1": 0.8763,
+    "area_mape_pct": 20.19
+  }
+]
