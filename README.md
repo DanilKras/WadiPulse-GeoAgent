@@ -1,6 +1,7 @@
 # WadiPulse-GeoAgent
 
 ![CI](https://github.com/DanilKras/WadiPulse-GeoAgent/actions/workflows/ci.yml/badge.svg)
+
 **Few-Shot Geospatial Foundation Model (`Prithvi-EO-2.0-300M`) & Tool-Calling Hydrological Agent for Center-Pivot Irrigation Monitoring in Saudi Arabia**
 
 `WadiPulse-GeoAgent` is an end-to-end geospatial machine learning and telemetry system designed to map center-pivot irrigated fields, quantify canopy moisture stress, and support natural-language hydrological queries across arid agricultural basins (**Wadi ad-Dawasir** and **Al-Kharj**, Saudi Arabia).
